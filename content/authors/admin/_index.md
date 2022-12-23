@@ -14,11 +14,16 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: PhD in Southwest university, 2019-
-  - name: Master degree in Maize Research Institute, Sichuan Agricultural University, 2016-2019
-  - name: Bachelor's degree in the College of Forestry, Sichuan Agricultural University, 2012-2016
-    url: ''
-    education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 # Education
   courses:
   - course: PhD in Artificial Intelligence
