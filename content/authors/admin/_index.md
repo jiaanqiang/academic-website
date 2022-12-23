@@ -68,4 +68,4 @@ social:
 
 Anqiang Jia is a PhD student of biology reasearch center at Southwest university. He research interests include genomics, evolutionary biology and functional genomics. He has published as first author and co-first author on Nature communications, Briefings in Bioinformatics, and Molecular Phylogenetics and Evolution.
 
-Anqiang has extensive experience in plant, animal and medical biological data analysis.
+Anqiang Jia has extensive experience in plant, animal and medical biological data analysis.
