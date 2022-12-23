@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **Anqiang Jia**, a PhD student at Southwest university.
 
 Check out my [CV](/about/) and blog posts below 🌈
