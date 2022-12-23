@@ -21,17 +21,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Biochemistry and Molecular Biology
+    institution: Southwest University
+    year: 2019-2023
+  - course: MEng in Crop Genetics and Breeding
+    institution: Sichuan Agricultural University
+    year: 2016-2019
+  - course: BSc in Forestry
+    institution: Sichuan Agricultural University
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
