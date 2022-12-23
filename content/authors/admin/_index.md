@@ -6,7 +6,7 @@ title: Anqiang Jia (贾安强)
 superuser: true
 
 # Role/position
-role: student
+role: doctoral candidate
 
 # Status emoji
 status:
