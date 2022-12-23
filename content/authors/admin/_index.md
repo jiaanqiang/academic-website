@@ -19,6 +19,7 @@ organizations:
   - name: Bachelor's degree in the College of Forestry, Sichuan Agricultural University, 2012-2016
     url: ''
     education:
+# Education
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
