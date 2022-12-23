@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anqiang Jia is a PhD student of biology reasearch center at Southwest university. He research interests include genomics, evolutionary biology and functional genomics. He has published as first author and co-first author on Nature communications, Briefings in Bioinformatics, and Molecular Phylogenetics and Evolution.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
