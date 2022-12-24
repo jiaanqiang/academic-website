@@ -22,4 +22,3 @@ author: admin
 
 Check out my [CV](/about/) and blog posts below 🌈
 
-### Papers
