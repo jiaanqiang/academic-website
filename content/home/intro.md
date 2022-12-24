@@ -10,7 +10,7 @@ weight: 12
 
 author: admin
 design:
- background:
+# background:
    color: '#FDF5E6'
    text_color_light: true
    video:
