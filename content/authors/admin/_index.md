@@ -61,7 +61,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 
-  - name: jiaanqiang@email.swu.edu.cn
+  - name: "jiaanqiang@email.swu.edu.cn"
 ---
 
 Anqiang Jia is a Phd student of Southwest University. He studies the molecular evolution of plant genes at the master stage and arthropod genomics and multiomics at the doctoral stage. He research interests include comparative genomics, evolutionary biology and computational biology.
