@@ -11,7 +11,7 @@ weight: 10
 author: admin
 design:
  background:
-   color: '#090a0b'
+   color: ''
    text_color_light: true
    video:
      path:  # enter filename of a video in /assets/media
