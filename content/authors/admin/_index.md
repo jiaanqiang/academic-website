@@ -6,9 +6,8 @@ title: Anqiang Jia (贾安强)
 superuser: true
 
 # Role/position
-organizations: 
-  - name: jiaanqiang@email.swu.edu.cn
-    url: ''
+role: jiaanqiang@email.swu.edu.cn
+
 # Status emoji
 status:
   icon: ☕️
