@@ -10,11 +10,6 @@ weight: 12
 
 author: admin
 design:
-# background:
- #  color: '#FDF5E6'
-  # text_color_light: true
-   #video:
-    # path:  # enter filename of a video in /assets/media
  css_class: fullscreen
 ---
 
