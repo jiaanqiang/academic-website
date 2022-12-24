@@ -6,7 +6,7 @@ title: Anqiang Jia (贾安强)
 superuser: true
 
 # Role/position
-role: student
+role: email: jiaanqiang@email.swu.edu.cn
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: school
+  - name: Biology Research Center, Southwest University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
