@@ -29,8 +29,7 @@ image:
 authors:
   - Wenbo Hu
   - Anqiang Jia
-  - et al.
-  - Nature Communicaitons. 2023
+  - et al. Nature Communicaitons. 2023
 
 # tags:
 #   - Academic
