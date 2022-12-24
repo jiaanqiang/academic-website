@@ -25,7 +25,7 @@ bio: My research interests include comparative genomics, evolutionary biology an
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
+education:
   courses:
   - course: PhD in Biochemistry and Molecular Biology
     institution: Southwest University
