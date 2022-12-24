@@ -66,4 +66,4 @@ social:
 
 Anqiang Jia is a PhD student of Southwest University. He studies the molecular evolution of plant genes at the master stage and arthropod genomics and multiomics at the doctoral stage. He research interests include comparative genomics, evolutionary biology and computational biology.
 
-Anqiang Jia has experience in  animal, plant, and medical-related biological data analysis, involving in genome assembly and annotation, comparative genomic analysis, single-cell multiomics, genomic-phenotypic association analysis, etc. He is familiar with the Liunx operating system, Perl, Python and R programming languages.
+Anqiang Jia has experience in  animal, plant, and medical-related biological data analysis, involving in genome assembly and annotation, comparative genomic analysis, single-cell multiomics, genomic-phenotypic association analysis, etc. He is familiar with the Linux operating system, Perl, Python and R programming languages.
