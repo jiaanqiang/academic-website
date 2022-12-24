@@ -8,6 +8,7 @@ image:
 authors:
   - Anqiang Jia
   - Ling Xu
+  - et al. Briefings in Bioinformatics. 2021
 ---
 
 ## Abstarct
