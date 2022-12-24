@@ -9,8 +9,8 @@ headless: true
 weight: 12
 
 author: admin
-design:
- css_class: fullscreen
+#design:
+# css_class: fullscreen
 ---
 
 🐈 Hey! Welcome to my home page. I'm Anqiang Jia, a PhD student in Southwest University. My research interests include comparative genomics, evolutionary biology and computational biology.
