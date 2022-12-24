@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position
 role: jiaanqiang@email.swu.edu.cn
+    url: ''
 
 # Status emoji
 status:
@@ -14,7 +15,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: Biology Research Center, Southwest University
+  - name: Biology Research Center, Southwest University, Chongqing, China
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
