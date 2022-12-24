@@ -27,13 +27,13 @@ bio: My research interests include comparative genomics, evolutionary biology an
 
 education:
   courses:
-  - course: PhD in Biochemistry and Molecular Biology
+  - course: PhD Degree in Biochemistry and Molecular Biology
     institution: Southwest University
     year: 2019-2023
-  - course: MEng in Crop Genetics and Breeding
+  - course: Master Degree in Crop Genetics and Breeding
     institution: Sichuan Agricultural University
     year: 2016-2019
-  - course: BSc in Forestry
+  - course: B.S. Degree in Forestry
     institution: Sichuan Agricultural University
     year: 2012-2016
 
@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Anqiang Jia is a Phd student of Southwest University. He studies the molecular evolution of plant genes at the master stage and arthropod genomics and multiomics at the doctoral stage. He research interests include comparative genomics, evolutionary biology and computational biology.
+Anqiang Jia is a PhD student of Southwest University. He studies the molecular evolution of plant genes at the master stage and arthropod genomics and multiomics at the doctoral stage. He research interests include comparative genomics, evolutionary biology and computational biology.
 
 Anqiang Jia has experience in  animal, plant, and medical-related biological data analysis, involving in genome assembly and annotation, comparative genomic analysis, single-cell multiomics, genomic-phenotypic association analysis, etc.
