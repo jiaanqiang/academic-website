@@ -1,7 +1,7 @@
 ---
 title: A molecular atlas reveals the tri-sectional spinning mechanism of spider dragline silk
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: The process of natural silk production in the spider major ampullate (Ma) gland endows dragline silk with extraordinary mechanical properties and the potential for biomimetic applications.
 
 # Link this post with a project
 projects: []
