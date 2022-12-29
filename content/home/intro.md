@@ -30,4 +30,16 @@ Comparative genomics,
 Evolutionary biology,
 Computational biology
 
+education:
+  courses:
+  - course: PhD in Biochemistry and Molecular Biology
+    institution: Southwest University
+    year: 2019-2023
+  - course: Master Degree in Crop Genetics and Breeding
+    institution: Sichuan Agricultural University
+    year: 2016-2019
+  - course: B.S. Degree in Forestry
+    institution: Sichuan Agricultural University
+    year: 2012-2016
+    
 #### Publications:
