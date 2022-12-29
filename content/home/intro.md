@@ -17,7 +17,7 @@ author: admin
 
 Check out my [CV](https://jiaanqiang.netlify.app/about/) and papers post below 🌈
 
-<div align="center">
+
 #### E-mail:
 jiaanqiang@email.swu.edu.cn
 
@@ -32,4 +32,3 @@ Evolutionary biology,
 Computational biology
 
 #### Publications:
-</div>
