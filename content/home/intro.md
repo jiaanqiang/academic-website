@@ -25,8 +25,8 @@ Master Degree in Crop Genetics and Breeding, 2016-2019, Sichuan Agricultural Uni
 B.S. Degree in Forestry, 2012-2016, Sichuan Agricultural University  
 
 #### Research interests:
-Comparative genomics,  
-Evolutionary biology,  
+Comparative genomics,
+Evolutionary biology,
 Computational biology
 
 #### Publications:
