@@ -1,5 +1,4 @@
 ---
-<div align="center">
 # Use the Intro widget of the Blog template
 widget: about.avatar
 
@@ -18,6 +17,7 @@ author: admin
 
 Check out my [CV](https://jiaanqiang.netlify.app/about/) and papers post below 🌈
 
+<div align="center">
 #### E-mail:
 jiaanqiang@email.swu.edu.cn
 
