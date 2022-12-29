@@ -24,4 +24,7 @@ author: admin
 #### <p align="left">Research interests:</p>
 <p align="left">Comparative genomics, Evolutionary biology, Computational biology</p>
 
+#### <p align="left">Skills:</p>
+<p align="left">Perl, Python, R and Bash</p>
+
 #### <p align="left">Publications:</p>
