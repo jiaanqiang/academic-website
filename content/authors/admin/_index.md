@@ -5,17 +5,9 @@ title: Anqiang Jia (贾安强)
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: jiaanqiang@email.swu.edu.cn
-
 # Status emoji
 status:
   icon: ☕️
-
-# Organizations/Affiliations
-organizations:
-  - name: Biology Research Center, Southwest University
-    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include comparative genomics, evolutionary biology and computational biology.
