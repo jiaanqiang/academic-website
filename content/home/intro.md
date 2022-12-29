@@ -1,4 +1,5 @@
 ---
+<div align="center">
 # Use the Intro widget of the Blog template
 widget: about.avatar
 
@@ -31,3 +32,4 @@ Evolutionary biology,
 Computational biology
 
 #### Publications:
+</div>
