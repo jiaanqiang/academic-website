@@ -23,7 +23,8 @@ E-mail: jiaanqiang@email.swu.edu.cn
 PhD in Biochemistry and Molecular Biology, 2019-2023, Southwest University
 Master Degree in Crop Genetics and Breeding, 2016-2019, Sichuan Agricultural University
 B.S. Degree in Forestry, 2012-2016, Sichuan Agricultural University
+
 #### Research interests
-Comparative genomics
-Evolutionary biology
+Comparative genomics,
+Evolutionary biology,
 Computational biology
