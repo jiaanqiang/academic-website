@@ -27,8 +27,6 @@ Check out my [CV](https://jiaanqiang.netlify.app/about/) and papers post below ð
 - <p align="left">B.S. Degree in Forestry, 2012-2016, Sichuan Agricultural University</p>
 
 #### <p align="left">Research interests:</p>
-Comparative genomics,
-Evolutionary biology,
-Computational biology
+<p align="left">Comparative genomics, Evolutionary biology, Computational biology</p>
 
 #### <p align="left">Publications:</p>
