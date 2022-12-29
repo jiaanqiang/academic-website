@@ -13,11 +13,6 @@ author: admin
 # css_class: fullscreen
 ---
 
-🐈 Hey! Welcome to my home page. I'm Anqiang Jia, a PhD student at Southwest University. My research interests include comparative genomics, evolutionary biology and computational biology.
-
-Check out my [CV](https://jiaanqiang.netlify.app/about/) and papers post below 🌈
-
-
 #### <p align="left">E-mail:</p>
 <p align="left">jiaanqiang@email.swu.edu.cn</p>
 
