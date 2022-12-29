@@ -19,10 +19,10 @@ Check out my [CV](https://jiaanqiang.netlify.app/about/) and papers post below ð
 
 #### E-mail:
 jiaanqiang@email.swu.edu.cn
-<p align="left">#### Education background:</p> 
-<p align="left">PhD in Biochemistry and Molecular Biology, 2019-2023, Southwest University</p> 
-Master Degree in Crop Genetics and Breeding, 2016-2019, Sichuan Agricultural University  
-B.S. Degree in Forestry, 2012-2016, Sichuan Agricultural University</p>
+#### Education background:
+<p align="left">PhD in Biochemistry and Molecular Biology, 2019-2023, Southwest University</p>  
+<p align="left">Master Degree in Crop Genetics and Breeding, 2016-2019, Sichuan Agricultural University</p>  
+<p align="left">B.S. Degree in Forestry, 2012-2016, Sichuan Agricultural University</p>
 #### Research interests:
 Comparative genomics,
 Evolutionary biology,
