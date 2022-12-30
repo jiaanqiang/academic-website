@@ -27,4 +27,8 @@ author: admin
 #### <p align="left">Skills:</p>
 <p align="left">Perl, Python, R and Bash</p>
 
+#### <p align="left">Practical experience:</p>
+Animal, plant, and medical-related biological data analysis, involving in genome assembly and annotation, comparative genomic analysis, single-cell multiomics, genomic-phenotypic association analysis, gene selection and evolution etc.
+
 #### <p align="left">Publications:</p>
+
