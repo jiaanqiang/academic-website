@@ -47,4 +47,4 @@ The process of natural silk production in the spider major ampullate (Ma) gland 
 
 ## Link
 
-Nat Commun 14, 837 (2023). https://doi.org/10.1038/s41467-023-36545-6.
+Nat Commun 14, 837 (2023). https://www.nature.com/articles/s41467-023-36545-6.
