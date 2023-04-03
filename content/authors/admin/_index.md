@@ -10,7 +10,7 @@ status:
   icon: ☕️
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include comparative genomics, evolutionary biology and computational biology(deep learning).
+bio: My research interests include comparative genomics, evolutionary biology and computational biology.
 
 #interests:
 #- Artificial Intelligence
