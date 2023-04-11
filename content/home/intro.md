@@ -22,7 +22,7 @@ author: admin
 <p align="left">B.S. Degree in Forestry, 2012-2016, Sichuan Agricultural University</p>
 
 #### <p align="left">Research interests:</p>
-<p align="left">Comparative genomics, Evolutionary biology, Computational biology, Deep learning</p>
+<p align="left">Comparative genomics, Evolutionary biology, Deep learning</p>
 
 #### <p align="left">Skills:</p>
 <p align="left">Perl, Python, R and Bash</p>
