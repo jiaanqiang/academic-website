@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Anqiang Jia (贾安强)
+E-mail: 18227552605@163.com
 
 # Is this the primary user of the site?
 superuser: true
